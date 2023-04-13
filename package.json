@@ -54,5 +54,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Repositorio de prueba",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elleos99/coursera-web-development.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elleos99/coursera-web-development/issues"
+  },
+  "homepage": "https://github.com/elleos99/coursera-web-development#readme"
 }
